@@ -1,0 +1,30 @@
+{
+  "name": "deep-compare",
+  "version": "0.0.1",
+  "description": "Deep comparison of objects in JavaScript",
+  "license": "MIT",
+  "repository": "dangvanthanh/deep-compare",
+  "author": {
+    "name": "Dang Van Thanh",
+    "email": "dangvanthanh@dangthanh.org",
+    "url": "dangthanh.org"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "objects",
+    "compare"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  }
+}
