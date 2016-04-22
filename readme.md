@@ -25,7 +25,7 @@ deepCompare({city: 'Ha Noi', population: 7500000}, {city: 'Ho Chi Minh', populat
 
 ## API
 
-### deepCompare(o1, o1)
+### deepCompare(o1, o2)
 
 #### o1
 
