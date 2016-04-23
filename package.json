@@ -1,6 +1,6 @@
 {
   "name": "deep-compare",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Deep comparison of objects in JavaScript",
   "license": "MIT",
   "repository": "dangvanthanh/deep-compare",
