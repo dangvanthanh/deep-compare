@@ -1,6 +1,6 @@
 {
   "name": "deep-compare",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Deep comparison of objects in JavaScript",
   "license": "MIT",
   "repository": "dangvanthanh/deep-compare",
@@ -13,7 +13,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "xo && ava"
+    "test": "standard && ava"
   },
   "files": [
     "index.js"
@@ -25,6 +25,6 @@
   "dependencies": {},
   "devDependencies": {
     "ava": "^0.14.0",
-    "xo": "^0.14.0"
+    "standard": "^7.1.2"
   }
 }
